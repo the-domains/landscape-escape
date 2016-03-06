@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.5238096
 color:
   saturation: 0
   brandStrength: 0.1290727
-  lightness: 0.3082707
+  rhythmicContrast: 0
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  rhythmicContrast: 0
-typography_spectrum: 0.5238096
-layout_spectrum: 0.287594
+  lightness: 0.3082707
+layout_spectrum: 0
 name: Landscape Escape

@@ -1,14 +1,26 @@
-layout_spectrum: 0.287594
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.4761905
-  brandStrength: 0.5391449
-  lightness: 0.2637845
-  rhythmicContrast: 0.1723058
+  saturation: 0
+  brandStrength: 0.1290727
+  lightness: 0.3082707
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+  rhythmicContrast: 0
 typography_spectrum: 0.5238096
+layout_spectrum: 0.287594
 name: Landscape Escape

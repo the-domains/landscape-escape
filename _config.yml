@@ -1,0 +1,14 @@
+layout_spectrum: 0.287594
+color:
+  saturation: 0.4761905
+  brandStrength: 0.5391449
+  lightness: 0.2637845
+  rhythmicContrast: 0.1723058
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.5238096
+name: Landscape Escape

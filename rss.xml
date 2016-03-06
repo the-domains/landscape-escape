@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Landscape Escape]]></title>
         <description><![CDATA[Landscape Escape]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/landscape-escape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 22:28:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 22:32:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/landscape-escape/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andes and Sierra, near Tupangato, Argentina]]></title>
+            <description><![CDATA[<article><h1>Andes and Sierra, near Tupangato, Argentina</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e81734-a541-4b72-84d6-5adbc081fafd.png"></article>]]></description>
+            <link>https://thegrid.ai/landscape-escape/andes-and-sierra-near-tupangato-argentina/index.html</link>
+            <guid isPermaLink="false">e62845a4-4318-4ea3-b822-3dc44130e35a</guid>
+            <pubDate>Sun, 06 Mar 2016 22:31:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wye Valley, Wales. ]]></title>
             <description><![CDATA[<article><h1>Wye Valley, Wales. </h1><p>Wye Valley, Wales.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4728b4d37887b4b4977ddc13e1f67dcefc6c080f.png"></article>]]></description>
-            <link>undefinedwye-valley-wales/index.html</link>
+            <link>https://thegrid.ai/landscape-escape/wye-valley-wales/index.html</link>
             <guid isPermaLink="false">152d3dcf-50a0-4e7d-9453-849fbb578c1e</guid>
             <pubDate>Sun, 06 Mar 2016 22:28:37 GMT</pubDate>
         </item>
